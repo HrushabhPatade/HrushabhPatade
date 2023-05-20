@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hrushabh Patade</h1>
-<h3 align="center">A Passionate Web Developer & Computer Hardware</h3>
+<h3 align="center">Passionate about Web Developer & Computer Hardware</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"> -->
 
 - 🔭 I’m currently working on **Flutter Image Generator app by voice**
